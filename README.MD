@@ -4,6 +4,8 @@
 Record,
 Move playhead to end,
 Mark
+
+![Preview](https://github.com/Teoreez/reaper-web-remote/blob/master/preview.jpg)
 ______________
 
 ### Installation:
